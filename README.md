@@ -73,3 +73,8 @@ I also implemented baseline ML models (Logistic Regression, Random Forest) to ev
 - Automate data pipeline for fraud monitoring.  
 
 ---
+
+📂 Dataset  
+The dataset used in this project can be downloaded from Kaggle:  
+[Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
