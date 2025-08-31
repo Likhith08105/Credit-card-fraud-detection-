@@ -73,18 +73,18 @@ I also implemented baseline ML models (Logistic Regression, Random Forest) to ev
 - Automate data pipeline for fraud monitoring.  
 
 ---
-📂 Dataset
+##  📂 Dataset
 
-Source: Credit Card Fraud Detection Dataset
+-**Source**: Credit Card Fraud Detection Dataset
  (Kaggle)
 
-Size: 284,807 transactions
+-**Size**: 284,807 transactions
 
-Fraud Cases: 492 (0.17% of total)
+-**Fraud Cases**: 492 (0.17% of total)
 
-Features: 30 columns (including PCA-transformed features, Amount, and Time)
+-**Features**: 30 columns (including PCA-transformed features, Amount, and Time)
 
-Nature: Highly imbalanced dataset focused on fraudulent transaction detection.
+-**Nature**: Highly imbalanced dataset focused on fraudulent transaction detection.
 
 ---
 
